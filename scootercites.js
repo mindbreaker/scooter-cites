@@ -11,7 +11,7 @@ var scooterCites = [{
     'song': "Maria I like it loud"
 
 }, {
-    'lyric': "Respect the man in the ice cream van!",
+    'lyric': "Respect to the man in the ice cream van!",
     'song': "Weekend"
 
 }, {
@@ -46,10 +46,8 @@ var scooterCites = [{
 {
     'lyric': "A guaranteed emergency. The radical MC H.P.",
     'song': "Fire"
-
 },
 {
     'lyric': "This is Scooter!",
     'song': "Hyper, hyper"
-
 }, ];
