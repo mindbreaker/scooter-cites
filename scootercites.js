@@ -50,4 +50,10 @@ var scooterCites = [{
 {
     'lyric': "This is Scooter!",
     'song': "Hyper, hyper"
-}, ];
+},
+{
+    'lyric': "The chase is better than the catch",
+    'song': "How much is the fish"
+
+}
+];
