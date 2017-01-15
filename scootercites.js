@@ -54,6 +54,18 @@ var scooterCites = [{
 {
     'lyric': "The chase is better than the catch",
     'song': "How much is the fish"
-
+},
+{
+    'lyric': "Skibadee Skibadanger  - I am the rearranger",
+    'song': "Maria (I Like It Loud)"
 }
+,
+{
+    'lyric': "From the H to the P - On da mic you will see",
+    'song': "Maria (I Like It Loud)"
+},
+{
+    'lyric': "I ritz bits for da hits with the lyrics",
+    'song': "Maria (I Like It Loud)"
+},
 ];
